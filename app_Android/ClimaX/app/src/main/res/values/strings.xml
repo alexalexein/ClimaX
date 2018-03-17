@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClimaX</string>
+    <string name="currentTemperature">99 ºC</string>
+    <string name="stateButtonText">ON/OFF</string>
 </resources>
